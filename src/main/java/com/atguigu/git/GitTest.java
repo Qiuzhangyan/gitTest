@@ -11,5 +11,7 @@ public class GitTest {
 
         System.out.println("hello hot-fit");
         System.out.println("这是master branch commit");
+
+        System.out.println("这是hot-fix commit 提交的");
     }
 }
