@@ -10,5 +10,7 @@ public class GitTest {
         System.out.println("Hello git!!");
 
         System.out.println("hello hot-fit");
+
+        System.out.println("这是hot-fix commit 提交的");
     }
 }
